@@ -1,0 +1,16 @@
+ile_tur 10
+pocz_ile_robów 1
+pocz_progr pliwj
+pocz_energia 20
+ile_daje_jedzenie 30
+ile_rośnie_jedzenie 7
+koszt_tury 1
+pr_powielania 0.5
+ułamek_energii_rodzica 0.2
+limit_powielania 10
+pr_usunięcia_instr 0.6	
+pr_dodania_instr 0.3
+pr_zmiany_instr 0.3
+spis_instr pliwj
+co_ile_wypisz 1
+ile_zadaje_lawa 10
